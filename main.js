@@ -16,7 +16,7 @@ let first = 0; // First number for addition
 let second = 0; // Second number for addition
 let correctAnswers = 0; // Count of correct answers
 let level = 1; // Current game level
-const levelUp = 3; // Used to calculate the number range for each level
+const levelUp = 6; // Used to calculate the number range for each level
 
 // This object associates each level with a background image.
 const backgroundImages = {
