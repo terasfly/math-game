@@ -162,3 +162,4 @@ resetButton.addEventListener('click', function() {
     level = 1;
     changeLevel(level); // Resets everything and calls updateBackgroundImage based on level 1
 });
+// padariau pakeitima
